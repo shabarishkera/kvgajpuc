@@ -3017,3 +3017,9 @@ color: white;
 margin-top: 130px;
 
 }
+.blog-text
+{
+padding: 10px;
+
+word-break: keep-all;
+}
