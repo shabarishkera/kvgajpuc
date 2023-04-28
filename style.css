@@ -408,6 +408,7 @@ a:focus{
 	position:relative;
 	z-index:2;
 	background-position:center;
+	margin-bottom: 40px;
 }
 .iner_banner:before{
 	content:"";
@@ -2969,7 +2970,7 @@ body {
 .w-100
 {
 object-fit: conver;
-height:100vh;
+
 }
 .carousel-item
 {
@@ -3009,5 +3010,10 @@ z-index: 1111;
 .school_timings
 {
 color: white;
+
+}
+.contact-row
+{
+margin-top: 130px;
 
 }
